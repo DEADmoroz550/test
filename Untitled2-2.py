@@ -17,8 +17,6 @@ import geocoder
 import geopy
 from vega_datasets import data as vds
 import plotly.express as px
-import voila
-
 
 # In[2]:
 
