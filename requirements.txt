@@ -1,8 +1,8 @@
 ipywidgets
 numpy
 pandas
+geopandas
 folium
-plugins
 ipywidgets
 geocoder
 geopy
