@@ -1,4 +1,6 @@
 ipywidgets
+jupyter
+matplotlib
 numpy
 pandas
 geopandas
