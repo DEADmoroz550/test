@@ -1,0 +1,10 @@
+ipywidgets
+numpy
+pandas
+geopandas
+folium
+ipywidgets
+geocoder
+geopy
+plotly.express
+voila
