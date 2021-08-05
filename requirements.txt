@@ -10,3 +10,4 @@ geocoder
 geopy
 plotly.express
 voila
+openpyxl
