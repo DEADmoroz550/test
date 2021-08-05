@@ -1,0 +1,10 @@
+ipywidgets
+numpy
+pandas
+folium
+plugins
+ipywidgets
+geocoder
+geopy
+vega_datasets
+plotly.express
