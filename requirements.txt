@@ -11,4 +11,4 @@ geopy
 plotly.express
 voila
 openpyxl
-branca.element
+branca
