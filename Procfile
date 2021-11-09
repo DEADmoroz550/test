@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser app.ipynb
+web: voila --port=$PORT --no-browser TSUM_apply_test.ipynb
